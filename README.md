@@ -80,6 +80,10 @@ Open this URL in your browser.
 - **Pydantic:** Data validation
 - **Multiple LLM Support:** OpenAI, Gemini, Claude, Grok
 
+## Demo
+
+![Demo GIF](demo.gif)
+
 ## Troubleshooting
 
 ### Port Already in Use
@@ -112,3 +116,4 @@ This project is licensed under [MIT License](LICENSE).
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
 **Keywords:** AI, Machine Learning, Generative AI, LLM, AI Agents, Agentic AI, Agno, Product Reviews, Multi-Agent System
+
