@@ -9,6 +9,7 @@ AI Product Review Generator is an advanced, multi-agent system for generating co
 - **Research Driven Reviews:** Finds, evaluates, and cites authoritative sources including user reviews, specifications, and expert opinions.
 - **Content Scraping:** Extracts and summarizes product information from multiple sources.
 - **Gradio UI:** Simple web interface for generating and viewing product reviews.
+- **Cost:** Around 0.008$ per request (around 90 sec to get response)
 
 ## Getting Started
 
@@ -116,4 +117,5 @@ This project is licensed under [MIT License](LICENSE).
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
 **Keywords:** AI, Machine Learning, Generative AI, LLM, AI Agents, Agentic AI, Agno, Product Reviews, Multi-Agent System
+
 
